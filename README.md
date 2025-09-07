@@ -25,7 +25,7 @@ npm install
 Dans le terminal de votre IDE
 ```sh
 git clone https://github.com/Yann-Rethore/D-finissez-une-solution-fonctionnelle-et-concevez-l-architecture-d-une-application.git
-```sh
+
 mvn install
 ```
 ### Properties et Back End
